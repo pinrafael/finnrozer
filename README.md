@@ -1,5 +1,5 @@
 
-<h1 color="blue">⭐ Hello , My name is FINN</h1>
+<h1 color="blue">⭐ Hello , My name is PIN</h1>
 
  ``Open source developer / UxUi designer / Freelancer Developer`` 
 
@@ -32,4 +32,4 @@ I usually use the <a href="https://github.com/neovim/neovim">Neovim</a> as my ma
 <summary><h3>My Coding journey</h3></summary>
   I started coding in 2017 and i learn html and css then i start move into javascript and c++ and python in the same time then i have a burn out but after 4 weeks but i keep coding and now im a software engineer and a open source developer
 
-Status : Grinding project for the tsinghua university 
+Status : Doing Okay 
